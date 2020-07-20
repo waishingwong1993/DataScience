@@ -1,2 +1,5 @@
 1. Raw datafile size is too large. Raw data can be downloaded here:
 https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+
+2. Folium maps can not be visualized on GitHub. Please view the notebook here:
+https://nbviewer.jupyter.org/github/waishingwong1993/DataScience/blob/master/NYC%20Clustering%20Analysis/notebooks/1.0-ww-NYC%20accidents%20DBSCAN.ipynb
